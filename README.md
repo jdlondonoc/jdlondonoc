@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdlondonoc
 - 👀 I’m interested in Automate & Optimize of process in production or services environments
-- 🌱 I’m currently learning Bootstrap / Python
+- 🌱 I’m currently learning Python / Angular
 - 💞️ I’m looking to collaborate on Apps or flows 
 - 📫 How to reach me jul.londono@gmail.com
 
